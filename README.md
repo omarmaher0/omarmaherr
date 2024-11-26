@@ -1,4 +1,4 @@
-<img width="250" align="right" src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Alzheimers_disease-brain_shrinkage.gif">
+<img width="250" align="right" src="https://upload.wikimedia.org/wikipedia/commons/8/81/Portfolio_.gif">
 
 <h3 align="center">
   Welcome to my portfolio
